@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Welcome to Guvi React App - B24WE</p>
+        <p>Welcome to Guvi React App from GitHub - B24WE</p>
         <a
           className="App-link"
           href="https://www.guvi.in/"
